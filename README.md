@@ -7,6 +7,7 @@ Student
 RMUTL
 
 * 🌍  I'm based in Chiang mai. Thailand
+* ✉️  You can contact me at [phuttpipong\_su66@live.rmutl.ac.th](mailto:phuttpipong_su66@live.rmutl.ac.th)
 
 ### Skills
 
